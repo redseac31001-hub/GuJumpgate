@@ -76,7 +76,7 @@
 
 ![配置代理分流规则](docs/images/github-readme-1779192674770.webp)
 
-### 5. ZeroOmega 导入&配置分流规则
+### 5. ZeroOmega 导入&配置分流规则 (如果你已经用提示词配置好了mihomo，这里就不用再设置ZeroOmega了)
 
 你可以选择直接导入我的 ZeroOmega 分流配置“ZeroOmegaOptions.bak”，但请注意：所有代理都只是示例值，需要自行修改。
 
@@ -99,7 +99,7 @@
 
 ### 7. 打开无痕浏览器并切换代理
 
-启动无痕浏览器，ZeroOmega 选择 `auto switch`。
+启动无痕浏览器，ZeroOmega 选择 `auto switch`。(如果你已经用提示词配置好了mihomo，这里就不用再设置ZeroOmega了)
 
 ![在无痕窗口启用 Auto Switch](docs/images/github-readme-1779193731001.webp)
 
